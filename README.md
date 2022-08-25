@@ -6,4 +6,6 @@ Python libraries **Pandas**, **NumPy** and **Seaborn** were used to process and 
 
 ### Here is a little sneak peek, check the notebook for more detail!
 
+
+
 ![enter image description here](Images/Preview.png)
