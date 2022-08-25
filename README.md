@@ -4,6 +4,6 @@ Small project using **Jupyter Notebook** to explore data from a movie performanc
 
 Python libraries **Pandas**, **NumPy** and **Seaborn** were used to process and visualize the data on a simple and dynamic way.
 
-Here are some previews, check the notebook for more detail!
+### Here is a little sneak peek, check the notebook for more detail!
 
 ![enter image description here](Images/Preview.png)
